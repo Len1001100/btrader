@@ -1,3 +1,4 @@
+
 # bTrader
 
 [![Build Status](https://travis-ci.org/gabriel-milan/btrader.png?branch=master)](https://travis-ci.org/gabriel-milan/btrader)
